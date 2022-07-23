@@ -14,3 +14,12 @@ body {
     background-color: #36393F;
     color: #DCDDDE;
 }
+#head {
+    height: 75px;
+    position:fixed;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    background-color: #191B1D;
+    border-bottom: 5px solid #000000;
+}
