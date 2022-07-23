@@ -10,6 +10,11 @@ a {
     text-decoration: none;
     color: #DCDDDE;
 }
+hr {
+    width: 100%;
+    height: 3px;
+    color: #151515;
+}
 sub {
     color: #FF0000;
     font-family: 'Segoe UI';
