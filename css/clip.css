@@ -1,0 +1,30 @@
+h1 {
+    font-family: 'Segoe UI';
+    font-size: larger;
+}
+p {
+    font-size: larger;
+    font-family: 'Segoe UI';
+}
+sub {
+    color: #a4a4a4;
+    font-size: x-small;
+    font-family: 'monolisa';
+}
+body {
+    background-color: #222427;
+    color: #DCDDDE;
+}
+a {
+    text-decoration: none;
+    color: #DCDDDE;
+}
+#top-bar {
+    height: 50px;
+    position:fixed;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    background-color: #191B1D;
+    border-bottom: 3px solid #151515;
+}
