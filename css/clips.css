@@ -14,7 +14,7 @@ body {
     background-color: #36393F;
     color: #DCDDDE;
 }
-#head {
+#top-bar {
     height: 75px;
     position:fixed;
     width: 100%;
