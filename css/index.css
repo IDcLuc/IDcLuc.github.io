@@ -2,6 +2,10 @@ h1 {
     font-family: 'Segoe UI';
     text-align: left;
 }
+body {
+    background-color: #222427;
+    color: #DCDDDE;
+}
 sub {
     color: #FF0000;
     font-family: 'Segoe UI';
@@ -10,4 +14,13 @@ sub {
 p {
     font-size: x-large;
     font-family: 'Segoe UI';
+}
+#top-bar {
+    height: 50px;
+    position:fixed;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    background-color: #191B1D;
+    border-bottom: 3px solid #151515;
 }
