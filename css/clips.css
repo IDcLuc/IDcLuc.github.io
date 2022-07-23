@@ -10,3 +10,7 @@ sub {
     font-size: x-small;
     font-family: 'monolisa';
 }
+body {
+    background-color: #a4a4a4;
+    color: #DCDDDE;
+}
