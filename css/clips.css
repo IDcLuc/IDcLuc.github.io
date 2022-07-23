@@ -12,7 +12,11 @@ sub {
     font-family: 'monolisa';
 }
 body {
-    background-color: #282a2d;
+    background-color: #222427;
+    color: #DCDDDE;
+}
+a {
+    text-decoration: none;
     color: #DCDDDE;
 }
 #top-bar {
@@ -22,5 +26,5 @@ body {
     top: 0px;
     left: 0px;
     background-color: #191B1D;
-    border-bottom: 3px solid #000000;
+    border-bottom: 3px solid #151515;
 }
