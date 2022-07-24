@@ -11,12 +11,13 @@ sub {
     font-size: x-small;
     font-family: 'monolisa';
 }
-body {
-    background-color: #222427;
-    color: #DCDDDE;
-}
+
 a {
     text-decoration: none;
+    color: #DCDDDE;
+}
+body {
+    background-color: #222427;
     color: #DCDDDE;
 }
 #top-bar {
