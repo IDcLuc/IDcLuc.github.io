@@ -1,0 +1,21 @@
+h1 {
+    font-family: 'Segoe UI';
+    font-size: larger;
+}
+a {
+    text-decoration: none;
+    color: #DCDDDE;
+}
+body {
+    background-color: #222427;
+    color: #DCDDDE;
+}
+#top-bar {
+    height: 50px;
+    position:fixed;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    background-color: #191B1D;
+    border-bottom: 3px solid #151515;
+}
