@@ -1,6 +1,7 @@
 h1 {
     font-family: 'Segoe UI';
     font-size: larger;
+    user-select: none;
 }
 a {
     text-decoration: none;
