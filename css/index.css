@@ -1,6 +1,7 @@
 h1 {
     font-family: 'Segoe UI';
     font-size: larger;
+    user-select: none;
 }
 body {
     background-color: #222427;
@@ -13,7 +14,6 @@ a {
 sub {
     color: #FF0000;
     font-family: 'Segoe UI';
-    user-select: none;
 }
 p {
     font-size: x-large;
