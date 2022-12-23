@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: anticonnor.tk
+Token: 49f75bb5c2901f8a917ca223ffec965df8b290ac57469e998f64db4150e545b2
