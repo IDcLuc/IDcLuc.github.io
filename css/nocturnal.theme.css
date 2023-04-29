@@ -1,0 +1,16 @@
+@import url("https://xcruxiex.github.io/themes/themes-cores/nocturnal.css");
+@import url("https://xcruxiex.github.io/themes/core/badges.css");
+@import url("https://xcruxiex.github.io/themes/core/custom-font.css");
+:root {
+  --backgroundColor01: #1e2731;
+  --backgroundColor02: #12171d;
+  --mainColor: #2275c9;
+  --gradientColor01: #00F260;
+  --gradientColor02: #0575E6;
+ 
+  /* Better Hljs */
+  --backgroundCode: #1e2731;
+  --backgroundName: rgba(0, 0, 0, .2);
+ 
+  --customFont: 'gg sans', sans-serif;
+}
