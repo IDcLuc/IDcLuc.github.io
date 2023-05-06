@@ -693,7 +693,7 @@
 }
 
 #app-mount .mentioned-Tre-dv:before {
-    background-color: #002449;
+    background-color: #39008E;
     width: 4px;
     border-radius: 8px 0 0 8px
 }
@@ -709,7 +709,7 @@
     content: "";
     width: 100%;
     height: 100%;
-    background-color: #002449;
+    background-color: #39008E;
     left: 0;
     top: 0;
     bottom: 0;
