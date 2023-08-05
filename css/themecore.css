@@ -2673,3 +2673,94 @@
     background-color: var(--backgroundColor01);
 }
 
+		
+.footer-3vSvuV{	
+    background-color: var(--backgroundColor01) ;	
+}	
+.body-2EZa2E.hasSplash-2aH3Ot{	
+    background-color: var(--backgroundColor01);	
+}  	
+.description-22kwMS{	
+    color: #fff !important;	
+}	
+.memberText-2H1zUf{	
+    color: #fff !important;	
+}	
+.icon-tZV_7s{	
+    color: var(--gradientColor02);	
+}	
+.nav-1cHpYc{	
+    background-color:var(--backgroundColor01) ;	
+}	
+.contentWrapper-2f9yME{	
+    background-color:var(--backgroundColor01) ;	
+}	
+.navButtonActive-fwiUKp{	
+    background-color:var(--backgroundColor02) ;	
+}	
+.controlIcon-10O-4h{	
+    color: var(--gradientColor02);	
+}	
+.colorDefault-2_rLdz.focused-3LIdPu{	
+    background-color: var(--gradientColor02);	
+}	
+.colorBrand-26tvUE{	
+    color: var(--gradientColor02);	
+}	
+.colorDefault-2_rLdz .checkbox-397WsK, .colorDefault-2_rLdz .radioSelection-3PDNAQ{	
+    color: var(--gradientColor02);	
+}	
+.sidebar-1tnWFu{	
+    background-color: var(--backgroundColor02);	
+}	
+.active-OdlCV-{	
+    color: var(--gradientColor02);	
+}	
+.theme-dark .active-OdlCV-:hover{	
+    color: var(--gradientColor02) ;	
+}	
+.lookFilled-1H2Jvj.colorBrand-2M3O3N:hover{	
+    background-color: var(--gradientColor02) ;	
+}	
+.addReactButton-3bSQb6, .buttonInner-3aRbcx{	
+    color: var(--gradientColor02);	
+}	
+.controlIcon-1grhw_{	
+    color: #fff ;	
+}	
+.durationTimeDisplay-QwCeRr, .durationTimeSeparator-1Cqi9N{	
+    color:#fff ;	
+}	
+.controlIcon-10O-4h{	
+    color: #fff ;opacity: 1 ;	
+}	
+.controlIcon-1grhw_{	
+    opacity: 1;	
+}	
+.controlIcon-1grhw_:hover{	
+    opacity: .6;	
+}	
+#app-mount .mediaBarGrabber-FvJKJg, #app-mount .mediaBarProgress-38I317, #app-mount .mediaBarProgress-38I317:after, #app-mount .mediaBarProgress-38I317:before{	
+    background-color: #fff !important;	
+}	
+.icon-1q31jb, .reactionBtn-3I19bq{	
+    color: var(--gradientColor02);	
+}	
+.reactionBtn-3I19bq:hover .icon-1q31jb{	
+    color: var(--gradientColor02);	
+}	
+.buttonColor-_0gSD_{	
+    background-color: var(--mainColor);	
+    background-image: linear-gradient(-45deg, var(--gradientColor01), var(--gradientColor02));	
+    opacity: .75;	
+    content: "";	
+}	
+.wrapper .controls{	
+    background: transparent !important;	
+}	
+.wrapper .controls .caret{	
+    background-color: var(--gradientColor02) !important;	
+}	
+.upload-vLbqu-{	
+    background-color: var(--backgroundColor02);	
+}
